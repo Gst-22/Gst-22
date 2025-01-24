@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme Tedardi</h1>
+<h1 align="center">Guilherme Stonoga Tedardi</h1>
 <h3 align="center">Computer Science student, always looking to learn more!</h3>
 
 
